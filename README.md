@@ -8,4 +8,4 @@ http-sun is implemented in Java.
 
 ## License
 
-http is licensed under the [GPL](http://www.gnu.org/licenses/gpl.html).
+http-sun is licensed under the [GPL](http://www.gnu.org/licenses/gpl.html).
