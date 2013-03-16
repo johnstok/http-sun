@@ -1,6 +1,6 @@
 # http-sun
 
-http-sun is an implementation of http API using Sun's JRE HTTP server.
+http-sun is an implementation of the http API using Sun's JRE HTTP server.
 
 ## Language
 
